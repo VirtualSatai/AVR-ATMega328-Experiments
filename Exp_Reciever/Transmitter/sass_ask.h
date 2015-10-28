@@ -6,8 +6,8 @@ extern "C"{
 typedef enum {IDLE, INIT, PING, REQUEST, RESPOND, ALERT, OK, ERROR} mode_type;
 
 typedef struct {
-    uint16_t sync : 15;
-    uint8_t  okay :  1;
+    uint16_t sync : 15; //This values purposes is yet to be determined.
+    uint8_t  okay :  1; //Very impotent
     uint8_t  addr;
     uint8_t  mode :  3;
     uint8_t  cntd :  5;
