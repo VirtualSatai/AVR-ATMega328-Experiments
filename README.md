@@ -1,5 +1,8 @@
-Pins: http://cdn.instructables.com/F1P/WPB9/H337KORO/F1PWPB9H337KORO.LARGE.jpg
+AVR-ATMega328-Experiments
+==========
 
-Interupt info: https://sites.google.com/site/qeewiki/books/avr-guide/external-interrupts-on-the-atmega328
+![Pins](http://cdn.instructables.com/F1P/WPB9/H337KORO/F1PWPB9H337KORO.LARGE.jpg)  
 
-Arduino ref: https://www.arduino.cc/en/Reference/AttachInterrupt
+[Interupt info](https://sites.google.com/site/qeewiki/books/avr-guide/external-interrupts-on-the-atmega328)  
+
+[Arduino Ref](https://www.arduino.cc/en/Reference/AttachInterrupt)      
